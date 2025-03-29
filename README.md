@@ -1,0 +1,2 @@
+# WinRAR
+RAR registration data
